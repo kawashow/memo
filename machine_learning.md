@@ -1,4 +1,4 @@
-[top](READEME.md)
+[top](README.md)
 
 ---
 Kaggle Expertになるまで勉強したことを全て書く

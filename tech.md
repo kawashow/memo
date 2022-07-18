@@ -1,4 +1,4 @@
-[top](READEME.md)
+[top](README.md)
 
 ---
 freeの本番障害演習

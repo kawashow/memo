@@ -1,4 +1,4 @@
-[top](READEME.md)
+[top](README.md)
 
 ---
 セガ、基礎線形代数
