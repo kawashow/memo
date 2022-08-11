@@ -8,3 +8,4 @@ public memo
 - [writing](writing.md)
 - [task](task.md)
 - [machine_learning](machine_learning.md)
+- [git](git.md)
