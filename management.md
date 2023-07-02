@@ -1,6 +1,7 @@
 [top](README.md)
 
 ---
+
 権限委譲
 
 https://blog.shojimiyata.com/entry/2019/12/03/132635
@@ -17,17 +18,25 @@ https://blog.shojimiyata.com/entry/2019/12/03/132635
 もちろん、過保護になりすぎては本末転倒ですが、障害を排除し、早期に成果を出してもらうことで、権限移譲は進みやすくなります。
 
 ---
-新規事業とfsp理論
+
+新規事業と fsp 理論
 
 https://note.com/yosuke77/n/nad3ac30229ae
 
 ---
+
 エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド
 
 https://qiita.com/hirokidaichi/items/95678bb1cef32629c317
 
 ---
-GitLabのリモートマニフェスト
+
+GitLab のリモートマニフェスト
 https://about.gitlab.com/company/culture/all-remote/guide/
 
 ---
+
+Sprint Planning をやめた話
+(:MEMO スクラム系増えてきたら別ファイルに移す)
+
+https://t.co/dtgYTsoa98
